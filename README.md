@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/jeyagash/LeetCode-Problem/tree/master/0059-spiral-matrix-ii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1833-find-the-highest-altitude](https://github.com/jeyagash/LeetCode-Problem/tree/master/1833-find-the-highest-altitude) |
 ## Prefix Sum
@@ -19,5 +20,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/jeyagash/LeetCode-Problem/tree/master/0059-spiral-matrix-ii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/jeyagash/LeetCode-Problem/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
