@@ -37,8 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jeyagash/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/jeyagash/LeetCode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/jeyagash/LeetCode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
