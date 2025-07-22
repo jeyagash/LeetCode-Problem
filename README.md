@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jeyagash/LeetCode-Problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1677-matrix-diagonal-sum](https://github.com/jeyagash/LeetCode-Problem/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/jeyagash/LeetCode-Problem/tree/master/1833-find-the-highest-altitude) |
+| [1983-maximum-population-year](https://github.com/jeyagash/LeetCode-Problem/tree/master/1983-maximum-population-year) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/jeyagash/LeetCode-Problem/tree/master/1833-find-the-highest-altitude) |
+| [1983-maximum-population-year](https://github.com/jeyagash/LeetCode-Problem/tree/master/1983-maximum-population-year) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jeyagash/LeetCode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Counting
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/jeyagash/LeetCode-Problem/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
