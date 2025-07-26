@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jeyagash/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/jeyagash/LeetCode-Problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/jeyagash/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/jeyagash/LeetCode-Problem/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/jeyagash/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0189-rotate-array) |
@@ -78,4 +79,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jeyagash/LeetCode-Problem/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/jeyagash/LeetCode-Problem/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/jeyagash/LeetCode-Problem/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
