@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/jeyagash/LeetCode-Problem/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/jeyagash/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/jeyagash/LeetCode-Problem/tree/master/0238-product-of-array-except-self) |
 | [0898-transpose-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/jeyagash/LeetCode-Problem/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jeyagash/LeetCode-Problem/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/jeyagash/LeetCode-Problem/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/jeyagash/LeetCode-Problem/tree/master/1983-maximum-population-year) |
 ## Math
