@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/jeyagash/LeetCode-Problem/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/jeyagash/LeetCode-Problem/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/jeyagash/LeetCode-Problem/tree/master/1983-maximum-population-year) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jeyagash/LeetCode-Problem/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/jeyagash/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/jeyagash/LeetCode-Problem/tree/master/1677-matrix-diagonal-sum) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jeyagash/LeetCode-Problem/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
 |  |
 | ------- |
