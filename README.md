@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jeyagash/LeetCode-Problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jeyagash/LeetCode-Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jeyagash/LeetCode-Problem/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1677-matrix-diagonal-sum](https://github.com/jeyagash/LeetCode-Problem/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/jeyagash/LeetCode-Problem/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/jeyagash/LeetCode-Problem/tree/master/1983-maximum-population-year) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jeyagash/LeetCode-Problem/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1983-maximum-population-year](https://github.com/jeyagash/LeetCode-Problem/tree/master/1983-maximum-population-year) |
 ## Divide and Conquer
 |  |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/jeyagash/LeetCode-Problem/tree/master/0055-jump-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jeyagash/LeetCode-Problem/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jeyagash/LeetCode-Problem/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
