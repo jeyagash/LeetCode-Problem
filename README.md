@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jeyagash/LeetCode-Problem/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/jeyagash/LeetCode-Problem/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/jeyagash/LeetCode-Problem/tree/master/0053-maximum-subarray) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/jeyagash/LeetCode-Problem/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jeyagash/LeetCode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
