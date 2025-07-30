@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/jeyagash/LeetCode-Problem/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/jeyagash/LeetCode-Problem/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/jeyagash/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0898-transpose-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/jeyagash/LeetCode-Problem/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/jeyagash/LeetCode-Problem/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
