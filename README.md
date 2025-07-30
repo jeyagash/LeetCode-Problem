@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jeyagash/LeetCode-Problem/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0189-rotate-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/jeyagash/LeetCode-Problem/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jeyagash/LeetCode-Problem/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/jeyagash/LeetCode-Problem/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/jeyagash/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jeyagash/LeetCode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jeyagash/LeetCode-Problem/tree/master/0012-integer-to-roman) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jeyagash/LeetCode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
