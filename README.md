@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jeyagash/LeetCode-Problem/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/jeyagash/LeetCode-Problem/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/jeyagash/LeetCode-Problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jeyagash/LeetCode-Problem/tree/master/0055-jump-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/jeyagash/LeetCode-Problem/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jeyagash/LeetCode-Problem/tree/master/0283-move-zeroes) |
 ## String
@@ -100,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/jeyagash/LeetCode-Problem/tree/master/0016-3sum-closest) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jeyagash/LeetCode-Problem/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
