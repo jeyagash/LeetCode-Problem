@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/jeyagash/LeetCode-Problem/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
+| [0742-to-lower-case](https://github.com/jeyagash/LeetCode-Problem/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jeyagash/LeetCode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
