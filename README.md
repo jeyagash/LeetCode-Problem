@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/jeyagash/LeetCode-Problem/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/jeyagash/LeetCode-Problem/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/jeyagash/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jeyagash/LeetCode-Problem/tree/master/0283-move-zeroes) |
 ## String
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeyagash/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/jeyagash/LeetCode-Problem/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/jeyagash/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/jeyagash/LeetCode-Problem/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jeyagash/LeetCode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Counting
