@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jeyagash/LeetCode-Problem/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/jeyagash/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/jeyagash/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/jeyagash/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jeyagash/LeetCode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jeyagash/LeetCode-Problem/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/jeyagash/LeetCode-Problem/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/jeyagash/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/jeyagash/LeetCode-Problem/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/jeyagash/LeetCode-Problem/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jeyagash/LeetCode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/jeyagash/LeetCode-Problem/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/jeyagash/LeetCode-Problem/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/jeyagash/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jeyagash/LeetCode-Problem/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Binary Search
 |  |
