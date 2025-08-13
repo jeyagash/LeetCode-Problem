@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jeyagash/LeetCode-Problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jeyagash/LeetCode-Problem/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0189-rotate-array) |
+| [0826-soup-servings](https://github.com/jeyagash/LeetCode-Problem/tree/master/0826-soup-servings) |
 | [1031-add-to-array-form-of-integer](https://github.com/jeyagash/LeetCode-Problem/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jeyagash/LeetCode-Problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jeyagash/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/jeyagash/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/jeyagash/LeetCode-Problem/tree/master/0198-house-robber) |
+| [0826-soup-servings](https://github.com/jeyagash/LeetCode-Problem/tree/master/0826-soup-servings) |
 ## Greedy
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jeyagash/LeetCode-Problem/tree/master/0561-array-partition) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/jeyagash/LeetCode-Problem/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
