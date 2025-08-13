@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jeyagash/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/jeyagash/LeetCode-Problem/tree/master/0561-array-partition) |
 | [0898-transpose-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0898-transpose-matrix) |
+| [0940-fruit-into-baskets](https://github.com/jeyagash/LeetCode-Problem/tree/master/0940-fruit-into-baskets) |
 | [1031-add-to-array-form-of-integer](https://github.com/jeyagash/LeetCode-Problem/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jeyagash/LeetCode-Problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jeyagash/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/jeyagash/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/jeyagash/LeetCode-Problem/tree/master/0242-valid-anagram) |
+| [0940-fruit-into-baskets](https://github.com/jeyagash/LeetCode-Problem/tree/master/0940-fruit-into-baskets) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jeyagash/LeetCode-Problem/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeyagash/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/jeyagash/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0940-fruit-into-baskets](https://github.com/jeyagash/LeetCode-Problem/tree/master/0940-fruit-into-baskets) |
 ## Counting Sort
 |  |
 | ------- |
