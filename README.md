@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jeyagash/LeetCode-Problem/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/jeyagash/LeetCode-Problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jeyagash/LeetCode-Problem/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0189-rotate-array) |
@@ -163,5 +164,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jeyagash/LeetCode-Problem/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/jeyagash/LeetCode-Problem/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/jeyagash/LeetCode-Problem/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
