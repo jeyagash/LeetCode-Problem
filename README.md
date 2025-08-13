@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/jeyagash/LeetCode-Problem/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/jeyagash/LeetCode-Problem/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jeyagash/LeetCode-Problem/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2529-range-product-queries-of-powers](https://github.com/jeyagash/LeetCode-Problem/tree/master/2529-range-product-queries-of-powers) |
 | [3790-fruits-into-baskets-ii](https://github.com/jeyagash/LeetCode-Problem/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jeyagash/LeetCode-Problem/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/jeyagash/LeetCode-Problem/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/jeyagash/LeetCode-Problem/tree/master/1983-maximum-population-year) |
+| [2529-range-product-queries-of-powers](https://github.com/jeyagash/LeetCode-Problem/tree/master/2529-range-product-queries-of-powers) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/jeyagash/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jeyagash/LeetCode-Problem/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2529-range-product-queries-of-powers](https://github.com/jeyagash/LeetCode-Problem/tree/master/2529-range-product-queries-of-powers) |
 ## Sorting
 |  |
 | ------- |
