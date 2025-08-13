@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jeyagash/LeetCode-Problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jeyagash/LeetCode-Problem/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/jeyagash/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/jeyagash/LeetCode-Problem/tree/master/0826-soup-servings) |
 | [1031-add-to-array-form-of-integer](https://github.com/jeyagash/LeetCode-Problem/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/jeyagash/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jeyagash/LeetCode-Problem/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/jeyagash/LeetCode-Problem/tree/master/0826-soup-servings) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/jeyagash/LeetCode-Problem/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
