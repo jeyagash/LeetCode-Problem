@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jeyagash/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/jeyagash/LeetCode-Problem/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/jeyagash/LeetCode-Problem/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jeyagash/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jeyagash/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/jeyagash/LeetCode-Problem/tree/master/0118-pascals-triangle) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jeyagash/LeetCode-Problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jeyagash/LeetCode-Problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jeyagash/LeetCode-Problem/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/jeyagash/LeetCode-Problem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/jeyagash/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/jeyagash/LeetCode-Problem/tree/master/0826-soup-servings) |
