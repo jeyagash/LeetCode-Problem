@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jeyagash/LeetCode-Problem/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/jeyagash/LeetCode-Problem/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jeyagash/LeetCode-Problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jeyagash/LeetCode-Problem/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jeyagash/LeetCode-Problem/tree/master/0055-jump-game) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jeyagash/LeetCode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jeyagash/LeetCode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/jeyagash/LeetCode-Problem/tree/master/0035-search-insert-position) |
 | [3790-fruits-into-baskets-ii](https://github.com/jeyagash/LeetCode-Problem/tree/master/3790-fruits-into-baskets-ii) |
 ## Trie
 |  |
