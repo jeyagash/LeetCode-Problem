@@ -180,11 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jeyagash/LeetCode-Problem/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/jeyagash/LeetCode-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/jeyagash/LeetCode-Problem/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jeyagash/LeetCode-Problem/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/jeyagash/LeetCode-Problem/tree/master/0021-merge-two-sorted-lists) |
 ## Segment Tree
 |  |
 | ------- |
