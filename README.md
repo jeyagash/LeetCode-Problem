@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jeyagash/LeetCode-Problem/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/jeyagash/LeetCode-Problem/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/jeyagash/LeetCode-Problem/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/jeyagash/LeetCode-Problem/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/jeyagash/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/jeyagash/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jeyagash/LeetCode-Problem/tree/master/0242-valid-anagram) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jeyagash/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/jeyagash/LeetCode-Problem/tree/master/0071-simplify-path) |
 ## String Matching
 |  |
 | ------- |
